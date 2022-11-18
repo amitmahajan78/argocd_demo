@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: amitmahajan/dagger-ci:latest
+        image: amitmahajan/dagger-ci:1.2
         ports:
         - containerPort: 9090
